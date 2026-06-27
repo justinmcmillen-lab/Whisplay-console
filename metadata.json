@@ -1,0 +1,8 @@
+{
+  "name": "Raspberry Pi Whisplay Controller",
+  "description": "Graphic control interface for the PiSugar Whisplay Hat. Display time, date, local IP, transfer and play MP4 files on the screen and speaker, record audio, customize boot and shutdown splash screens, and safely halt the system.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
